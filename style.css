@@ -88,7 +88,7 @@ img {
 }
 
 #home {
-  background-image: url(https://Mito623.github.io/Mito623.github.io/img/main-bg.jpg),linear-gradient(#c9ffbf,#ffafbd);
+  background-image: url(https://Mito623.github.io/Mito623.github.io/main-bg.jpg),linear-gradient(#c9ffbf,#ffafbd);
   background-blend-mode: luminosity;
   min-height: 100vh;
 }
@@ -100,7 +100,7 @@ img {
 /* NEWS
 -----------------*/
 #news {
-  background-image: url(../images/news-bg.jpg);
+  background-image: url(https://Mito623.github.io/Mito623.github.io/news-bg.jpg);
   height: 270px;
   margin-bottom: 40px;
 }
@@ -218,7 +218,7 @@ aside p {
 /* MENU
 ---------------------- */
 #menu {
-    background-image: url(../images/menu-bg.jpg);
+    background-image: url(https://Mito623.github.io/Mito623.github.io/menu-bg.jpg);
     min-height: 100vh;
 }
 .menu-content {
